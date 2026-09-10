@@ -1,3 +1,4 @@
 my first devops application
 this is development environment
 version: 1.0
+Feature: health check enabled
